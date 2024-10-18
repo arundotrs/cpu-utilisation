@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "open": "^10.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cpu-utilization",
+  "version": "1.0.0",
+  "description": "Tool to display CPU Utilization",
+  "main": "server.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
